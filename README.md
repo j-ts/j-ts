@@ -37,7 +37,7 @@ With a solid background in data management and degrees in Engineering and Artifi
 ### Data Visualization
 - **Video Games Sales Strategy Analysis**
   - Analyzed and critically evaluated video game sales data to strategize for the upcoming Winter season.
-  - [View the project here](#) 
+  - [View the project here](https://github.com/j-ts/video-games-analysis/)
 
 ### Predictive Modeling
 - **Predicting Popularity of Songs** *(In progress)*
