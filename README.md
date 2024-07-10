@@ -44,6 +44,10 @@ With a solid background in data management and degrees in Engineering and Artifi
   - Utilizing decision trees, XGBoost, TabPFN, and PyTorch Tabular to classify top 50 popular songs.
   <!-- - [View the project here](#) -->
 
+- **Predicting tax relief for Electric cars**
+  - Exploring various algorithms, such as LightGBM, DNN and TabPFN, to determine their effectiveness in binary classification task.
+  - [View the project here](https://github.com/j-ts/ml-basic-ca1)
+
 ### Big Data
 - **Tokyo Accommodation Availability Prediction** *(In progress)*
   - Employing Spark MLlib and Hadoop to predict accommodation availability in Tokyo.
