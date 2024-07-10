@@ -47,7 +47,7 @@ With a solid background in data management and degrees in Engineering and Artifi
 ### Big Data
 - **Tokyo Accommodation Availability Prediction** *(In progress)*
   - Employing Spark MLlib and Hadoop to predict accommodation availability in Tokyo.
-  <!-- - [View the project here](#) -->
+  - [View the project here](https://github.com/j-ts/storage-big-data-ca1)
 
 
 ## 🎖 Certifications
