@@ -12,16 +12,16 @@
 
 With a solid background in data management and degrees in Engineering and Artificial Intelligence, I'm focusing my career on the highly innovative fields of Data Science, Machine Learning and AI research. 
 
-🔍 This portfolio showcases my skills in programming, data visualisation and predictive modelling.
+🔍 This portfolio showcases some of my skills in programming, data visualisation and predictive modelling.
 
 
 ## 🎓 Academic Background
-- Higher Diploma in Science in Artificial Intelligence Applications
+- First-class Honours Higher Diploma in Science in Artificial Intelligence Applications
 - BEng in Civil Engineering
 
 ## 🚀 Professional Aspirations
 - _Data Scientist | Machine Learning Engineer | AI Researcher_
-- Eager to engage in long-term projects in remote positions.
+- Eager to engage in any projects in remote positions.
 
 ## 💻 Technical Skills
 - **Languages:** Python
