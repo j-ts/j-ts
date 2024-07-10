@@ -39,6 +39,10 @@ With a solid background in data management and degrees in Engineering and Artifi
   - Analyzed and critically evaluated video game sales data to strategize for the upcoming Winter season.
   - [View the project here](https://github.com/j-ts/video-games-analysis/)
 
+- **Interactive Dashboard about UK Young Adults Demographics**
+ - Analysed demographics of Young Adults in the UK between 2011 and 2022, and wrapped it in interactive dashboard using Streamlit.
+ - [View the project here](https://github.com/j-ts/dv-streamlit)
+
 ### Predictive Modeling
 - **Predicting Popularity of Songs** *(In progress)*
   - Utilizing decision trees, XGBoost, TabPFN, and PyTorch Tabular to classify top 50 popular songs.
